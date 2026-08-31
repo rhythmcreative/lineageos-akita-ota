@@ -1,5 +1,20 @@
 [
   {
+    "datetime": 1788177600,
+    "type": "UNOFFICIAL",
+    "version": "23.2",
+    "files": [
+      {
+        "filename": "lineage-23.2-2026-08-31-UNOFFICIAL-akita-signed.zip",
+        "sha256": "964d3e6bc152627e6b90b58f5e5fcb632083b1b1855236c40595f6d0765608e9",
+        "size": 1464694556,
+        "url": "https://github.com/rhythmcreative/lineageos-akita-ota/releases/download/akita-2026-08-31/lineage-23.2-2026-08-31-UNOFFICIAL-akita-signed.zip",
+        "os_sdk_level": 36,
+        "os_patch_level": "2026-08-01"
+      }
+    ]
+  },
+  {
     "datetime": 1788123431,
     "type": "UNOFFICIAL",
     "version": "23.2",
