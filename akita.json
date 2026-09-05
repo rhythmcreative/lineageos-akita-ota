@@ -6,8 +6,8 @@
     "files": [
       {
         "filename": "lineage-24.0-2026-09-05-UNOFFICIAL-akita-signed.zip",
-        "sha256": "9314cdf375e81a5dec63807f86a0756695ed95fc6317a964e3b70354b916c9f0",
-        "size": 1577859794,
+        "sha256": "d9986a9044e71606473075811a4bf2fc20359ff6ecc91ccdc23f1ddc77109608",
+        "size": 1577859848,
         "url": "https://github.com/rhythmcreative/lineageos-akita-ota/releases/download/akita-2026-09-05/lineage-24.0-2026-09-05-UNOFFICIAL-akita-signed.zip",
         "os_sdk_level": 37,
         "os_patch_level": "2026-08-01"
