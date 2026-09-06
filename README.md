@@ -40,6 +40,21 @@ The `akita.json` file contains the information required by the updater to detect
 
 > **Note:** This repository only provides OTA metadata. The actual LineageOS builds are hosted separately.
 
+## Changes
+
+### Akita 2026-09-06 (LineageOS 24.0)
+- Excluida la aplicación Search (`QuickSearchBox`) del sistema.
+- Activado PIN Scrambling (desorden de teclado numérico) en la pantalla de bloqueo y en el desbloqueo de SIM.
+- Integrados ajustes avanzados de seguridad y protección contra exploits (`ExploitProtectionSettings`).
+- Añadido parche de recuperación de secreto FRP para flasheos limpios (`PersistentDataBlockService`).
+- Sincronización con las últimas fuentes upstream de LineageOS 24.0 (Android 16 / Baklava).
+- Build firmada con clave privada propia y soporte para bloqueo de bootloader (AVB).
+
+### Akita 2026-09-05 (LineageOS 24.0)
+- Build inicial de LineageOS 24.0 para Pixel 8a (`akita`).
+- Integración oficial de MindTheGapps para Android 16.
+- Configuración de URI de actualizador OTA propio.
+
 ## Disclaimer
 
 This is an unofficial project and is not affiliated with or endorsed by the LineageOS project or Google.
