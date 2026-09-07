@@ -1,13 +1,13 @@
 [
   {
-    "datetime": 1788799590,
+    "datetime": 1788810715,
     "type": "UNOFFICIAL",
     "version": "24.0",
     "files": [
       {
         "filename": "lineage-24.0-2026-09-07-UNOFFICIAL-akita-signed.zip",
-        "sha256": "fd50897345f1a3ccb6931ade94335bd84e5fd975c4c0cbf30f01696bc8d566e9",
-        "size": 1875367864,
+        "sha256": "bc89fe3342acc882e36408d3831e168a4e280f807b6c88d7e989154ea7c2ba51",
+        "size": 1875384369,
         "url": "https://github.com/rhythmcreative/lineageos-akita-ota/releases/download/akita-2026-09-07/lineage-24.0-2026-09-07-UNOFFICIAL-akita-signed.zip",
         "os_sdk_level": 37,
         "os_patch_level": "2026-08-01"
