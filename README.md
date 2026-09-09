@@ -40,6 +40,25 @@ The `akita.json` file contains the information required by the updater to detect
 
 > **Note:** This repository only provides OTA metadata. The actual LineageOS builds are hosted separately.
 
+## Updating
+
+### Automatic (OTA)
+1. Navigate to **Settings** > **System** > **System updates**.
+2. Tap **Check for updates**.
+3. Download and install the available update.
+
+### Manual (Recovery / ADB Sideload)
+1. Download the signed update package (`lineage-*.zip`).
+2. Reboot into recovery sideload mode:
+   ```bash
+   adb reboot sideload
+   ```
+3. Install the update without wiping user data:
+   ```bash
+   adb sideload <filename>.zip
+   ```
+4. Reboot the system.
+
 ## Disclaimer
 
 This is an unofficial project and is not affiliated with or endorsed by the LineageOS project or Google.
