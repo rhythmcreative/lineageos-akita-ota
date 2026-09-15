@@ -1,6 +1,0 @@
-# Ignore cryptographic keys and binary digests
-pkmd.bin
-*.bin
-*.key
-*.pk8
-*.pem
